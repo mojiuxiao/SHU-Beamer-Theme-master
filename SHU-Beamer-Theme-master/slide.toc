@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{The LMS Algorithm}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{basic problem}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{LMS Algorithm}{10}{0}{2}
+\beamer@sectionintoc {3}{Some Properties of the LMS Algorithm}{15}{0}{3}
+\beamer@subsectionintoc {3}{1}{Gradient Behavior}{16}{0}{3}
+\beamer@subsectionintoc {3}{2}{Convergence Behavior of the Coefficient Vector}{19}{0}{3}
